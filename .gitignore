@@ -1,0 +1,8 @@
+﻿# Ignore scan results and sensitive logs
+reports/
+*.log
+.env
+
+# Python artifacts
+__pycache__/
+venv/
